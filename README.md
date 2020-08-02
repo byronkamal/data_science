@@ -2,7 +2,7 @@
   <img src="banner.jpg" >
 </p>
 
-#### Aqui estão meus Notebooks, projetos e estudos de Data Science e de temas relacionados à Integência Artificial.
+#### Aqui estão meus Notebooks, projetos e estudos de Data Science e temas relacionados à Integência Artificial.
 
 ### Projetos:
  Lista de projetos em Jupyter Notebook:
