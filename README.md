@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/autor-byronkamal-blue.svg)](https://www.linkedin.com/in/byron-kamal/) 
+
 <p align="center">
   <img src="banner.jpg" >
 </p>
